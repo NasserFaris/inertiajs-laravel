@@ -1,0 +1,13 @@
+/* Reset */
+@import 'tailwindcss/base';
+@import 'reset';
+
+/* Components */
+@import 'tailwindcss/components';
+@import 'buttons';
+@import 'form';
+
+/* Utilities */
+@import 'tailwindcss/utilities';
+@import 'vue-select/dist/vue-select.css';
+@import 'vue-good-table/dist/vue-good-table.css';
